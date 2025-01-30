@@ -1,0 +1,152 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_carpenter";
+    src: url("../fonts/flaticon_carpentercef4.woff2?d3ac3162da249c8433e535130182c48d") format("woff2"),
+url("../fonts/flaticon_carpentercef4.woff?d3ac3162da249c8433e535130182c48d") format("woff"),
+url("../fonts/flaticon_carpentercef4.eot?d3ac3162da249c8433e535130182c48d#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_carpentercef4.ttf?d3ac3162da249c8433e535130182c48d") format("truetype"),
+url("../fonts/flaticon_carpentercef4.svg?d3ac3162da249c8433e535130182c48d#flaticon_carpenter") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_carpenter !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-carpenter:before {
+    content: "\f101";
+}
+.flaticon-carpenter-1:before {
+    content: "\f102";
+}
+.flaticon-hammer:before {
+    content: "\f103";
+}
+.flaticon-hand-saw:before {
+    content: "\f104";
+}
+.flaticon-carpenter-2:before {
+    content: "\f105";
+}
+.flaticon-carpentry:before {
+    content: "\f106";
+}
+.flaticon-carpenter-3:before {
+    content: "\f107";
+}
+.flaticon-carpenter-4:before {
+    content: "\f108";
+}
+.flaticon-pencil:before {
+    content: "\f109";
+}
+.flaticon-hand-saw-1:before {
+    content: "\f10a";
+}
+.flaticon-carpenter-5:before {
+    content: "\f10b";
+}
+.flaticon-circular:before {
+    content: "\f10c";
+}
+.flaticon-hammers:before {
+    content: "\f10d";
+}
+.flaticon-circular-saw:before {
+    content: "\f10e";
+}
+.flaticon-toolbox:before {
+    content: "\f10f";
+}
+.flaticon-construction-and-tools:before {
+    content: "\f110";
+}
+.flaticon-sawing:before {
+    content: "\f111";
+}
+.flaticon-saw:before {
+    content: "\f112";
+}
+.flaticon-hammer-1:before {
+    content: "\f113";
+}
+.flaticon-drill:before {
+    content: "\f114";
+}
+.flaticon-chisel:before {
+    content: "\f115";
+}
+.flaticon-carpenter-6:before {
+    content: "\f116";
+}
+.flaticon-carpenter-7:before {
+    content: "\f117";
+}
+.flaticon-carpenter-8:before {
+    content: "\f118";
+}
+.flaticon-measure-tape:before {
+    content: "\f119";
+}
+.flaticon-toolbox-1:before {
+    content: "\f11a";
+}
+.flaticon-nails:before {
+    content: "\f11b";
+}
+.flaticon-electric:before {
+    content: "\f11c";
+}
+.flaticon-circular-saw-1:before {
+    content: "\f11d";
+}
+.flaticon-construction-and-tools-1:before {
+    content: "\f11e";
+}
+.flaticon-toolbox-2:before {
+    content: "\f11f";
+}
+.flaticon-axe:before {
+    content: "\f120";
+}
+.flaticon-tool:before {
+    content: "\f121";
+}
+.flaticon-tree:before {
+    content: "\f122";
+}
+.flaticon-tree-1:before {
+    content: "\f123";
+}
+.flaticon-circular-saw-2:before {
+    content: "\f124";
+}
+.flaticon-repair:before {
+    content: "\f125";
+}
+.flaticon-wood-work:before {
+    content: "\f126";
+}
+.flaticon-paint-bucket:before {
+    content: "\f127";
+}
+.flaticon-saw-1:before {
+    content: "\f128";
+}
+

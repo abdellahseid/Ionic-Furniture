@@ -1,0 +1,366 @@
+:root {
+  --dark-color1: #201f20;
+  --dark-color2: #201f20;
+  --dark-color3: #2b242b;
+  --dark-color4: #15181a;
+}
+
+.bg-dark-1,
+body,
+.sticky-header.fixed-header,
+.page-wrapper,
+.header-style-one .main-box,
+.header-style-two .header-lower .inner-container,
+.play-now .icon,
+.header-style-one,
+.why-choose-us .outer-box:before,
+.why-choose-us .content-column .inner-column,
+.project-block .content-box .title,
+.range-slider-one .ui-slider .ui-slider-range,
+.header-style-three .header-top,
+.header-style-three .main-box:after,
+.team-block .inner-box:hover .info-box .share-icon,
+.video-section-three .outer-box .play-now-two,
+.offer-section .image-column .video-box .play-btn,
+.feature-block-three .inner-box,
+.time-table-box .inner,
+.contact-form-two .form-group .select2-container--default .select2-selection--single,
+.contact-form-two .form-group input:not([type=submit]),
+.contact-form-two .form-group textarea,
+.contact-form-two .form-group select,
+.why-choose-us-four .outer-box,
+.counter-block-two .inner-box,
+.testimonial-section-two .default-dots .owl-dots .owl-dot,
+.call-to-action-three .outer-box,
+.header-style-five .header-lower .logo-box:before,
+.header-style-six .header-top,
+.service-block-six .inner-box .content-box,
+.testimonial-block-six .inner-box .author-box .author-info,
+.about-section-nine .service-block .inner-box .icon,
+.contact-form-nine {
+  background-color: var(--dark-color1);
+}
+
+.testimonial-section-two .default-dots .owl-dots .owl-dot {
+  border-color: var(--dark-color1);
+}
+
+.bg-dark-2,
+.fun-fact-section,
+.why-choose-us::before,
+.feature-block .inner-box,
+.testimonial-block .inner-box,
+.testimonial-block .inner-box:before,
+.news-block .bottom-box,
+.service-block-two .inner-box .content-box .inner,
+.team-block .info-box,
+.video-section-four,
+.fun-fact-section-two,
+.pricing-block.style-two .inner-box,
+.why-choose-us-five,
+.about-section-five,
+.contact-form-three .select2-container--default .select2-selection--single,
+.contact-form-three input:not([type=submit]),
+.contact-form-three textarea,
+.contact-form-three select,
+.about-section-six .outer-box,
+.project-block-six .inner-box .content-box,
+.about-section-six .content-column .inner-column .author-box .inner-box .author-info .designation,
+.country-block .inner-box,
+.country-block .inner-box:before,
+.service-block-seven .icon-box:before,
+.services-section-five .tabs-column .nav-tabs li .nav-link,
+.services-section-five .content-column .inner .text,
+.testimonial-block-five .content-box,
+.about-section-nine .service-block .inner-box,
+.service-block-nine .inner-box .content-box {
+  background-color: var(--dark-color2);
+}
+
+.counter-block .inner-box,
+.accordion-box .block .acc-btn,
+.accordion-box .block,
+.news-block .bottom-box,
+.offer-section .content-column .inner-column .accordion-box .block,
+.about-section-six .image-column .inner-column .image-box .image-2 img,
+.country-block .inner-box,
+.services-section-five .tabs-column .nav-tabs li .nav-link,
+.faq-section-two .image-column .inner-column .image-2 {
+  border-color: var(--dark-color2);
+}
+
+.testimonial-block-five .content-box::before {
+  border-top-color: var(--dark-color2);
+}
+
+.bg-dark-3,
+.service-block-four .inner-box,
+.service-block-four .inner-box:before,
+.project-section-five {
+  background-color: var(--dark-color3);
+}
+
+.bg-dark-4,
+.service-block .inner-box .content-box,
+.service-block .inner-box .image-box .read-more,
+.about-section .image-column .inner-column:before,
+.about-section .image-column .inner-column:after,
+.about-section .content-column .inner-column .author-box,
+.accordion-box .block,
+.feature-block .inner-box:before,
+.testimonial-section .default-dots .owl-dots .owl-dot,
+.news-block .content-box,
+.faq-section .image-column .inner-column .image-box .rating-box,
+.services-section-two .owl-carousel .owl-dots .owl-dot,
+.news-section-two .default-dots .owl-dots .owl-dot,
+.process-block .inner-box .icon-box .icon,
+.contact-form-two .form-group .select2-container--default .select2-selection--single,
+.contact-form-two .form-group input:not([type=submit]),
+.contact-form-two .form-group textarea,
+.contact-form-two .form-group select,
+.banner-section-five .image-box .fact-counter-one,
+.banner-section-five .image-box .fact-counter-one:before,
+.features-section-six .outer-box,
+.feature-block-six .inner-box,
+.testimonial-block-six .inner-box,
+.faq-section-six .outer-box,
+.service-block-seven .inner-box:before,
+.feature-block-eight .content-box,
+.why-choose-us-three .content-column .info-box,
+.why-choose-us-three .content-column .skills .skill-item .skill-bar .bar-inner,
+.contact-form-nine .select2-container--default .select2-selection--single,
+.contact-form-nine input:not([type=submit]),
+.contact-form-nine textarea,
+.contact-form-nine select {
+  background-color: var(--dark-color4);
+}
+
+.service-block .inner-box .content-box,
+.faq-section .faq-column .inner-column:before,
+.testimonial-section .default-dots .owl-dots .owl-dot,
+.news-block .content-box,
+.services-section-two .owl-carousel .owl-dots .owl-dot,
+.why-choose-us-two .content-column .inner-column .exp-box .inner,
+.video-section-two .image-column .experience,
+.news-section-two .default-dots .owl-dots .owl-dot,
+.about-section-eight .image-column .image-2,
+.about-section-five .experience,
+.contact-form-two .form-group .select2-container--default .select2-selection--single,
+.contact-form-two .form-group input:not([type=submit]),
+.contact-form-two .form-group textarea,
+.contact-form-two .form-group select {
+  border-color: var(--dark-color4);
+}
+
+.btn-style-three {
+  background-color: #000;
+}
+
+.contact-form .form-group input:not([type=submit]) {
+  padding-left: 15px;
+}
+
+.contact-form .form-group input:not([type=submit])::-webkit-input-placeholder, .contact-form .form-group textarea::-webkit-input-placeholder, .contact-form-nine input::-webkit-input-placeholder {
+  color: var(--theme-color-light) !important;
+}
+
+.contact-form .form-group input:not([type=submit])::-moz-placeholder, .contact-form .form-group textarea::-moz-placeholder, .contact-form-nine input::-moz-placeholder {
+  color: var(--theme-color-light) !important;
+}
+
+.contact-form .form-group input:not([type=submit]):-ms-input-placeholder, .contact-form .form-group textarea:-ms-input-placeholder, .contact-form-nine input:-ms-input-placeholder {
+  color: var(--theme-color-light) !important;
+}
+
+.contact-form .form-group input:not([type=submit])::-ms-input-placeholder, .contact-form .form-group textarea::-ms-input-placeholder, .contact-form-nine input::-ms-input-placeholder {
+  color: var(--theme-color-light) !important;
+}
+
+.main-menu .navigation > li > a,
+.main-menu .navigation > li.current > a,
+strong,
+.title a,
+.sec-title h2,
+.list-style-one li,
+.list-style-one li a,
+.header-style-one .header-top .useful-links li a,
+.header-style-one .header-lower .info-btn small,
+.service-block .inner-box .image-box .read-more,
+.about-section .content-column .inner-column .author-box .inner .name,
+.counter-block .count-box,
+.counter-block .count-box .count-text,
+.skills .skill-item .skill-header .skill-title,
+.accordion-box .block .acc-btn,
+.contact-form .form-group input:not([type=submit])::placeholder,
+.contact-form .form-group textarea::placeholder,
+.testimonial-block .inner-box .reason,
+.testimonial-block .inner-box .info-box .name,
+.faq-section .image-column .inner-column .image-box .rating-box .reviews,
+.choose-block .inner-box .title,
+.why-choose-us-two .content-column .inner-column .exp-box .title,
+.list-style-four li,
+.header-style-three .header-top .inner-container .social-icon-one li a,
+.about-section-eight .content-column .founder-info .name,
+.team-block .info-box .name a,
+.team-block .share-icon,
+.time-table-box .title,
+.counter-block-two .count-box .count-text,
+.team-block-two .info-box .name a,
+.pricing-block.style-two .inner-box .title,
+.pricing-block.style-two .price-box .validaty,
+.pricing-block.style-two .price-box .price,
+.why-choose-us-five .feature-block-seven .title,
+.about-section-five .content-column .inner-column .list-style-three li,
+.product-block h4 a,
+.project-section-five .expert-info-box .content-box .expert-title,
+.banner-section-five .content-box .title,
+.banner-section-five .image-box .fact-counter-one .count-box,
+.header-style-six .header-top .inner-container .social-icon-one li a,
+.about-section-six .content-column .inner-column .author-box .inner-box .author-info .name,
+.about-section-seven .skills-column .inner-column .title,
+.about-block-seven .inner-box .title,
+.skills .skill-item .skill-bar .bar-inner .skill-percentage,
+.testimonial-block-six .inner-box .author-box .name,
+.accordion-box .block .acc-btn .arrow,
+.service-block-seven .read-more i,
+.service-block-seven .inner-box:hover .icon,
+.why-choose-us-three .content-column .info-box .title,
+.services-section-five .tabs-column .nav-tabs li .nav-link .title,
+.about-section-nine .content-column .founder-info .name,
+.features-section-two .features-column .inner-column .bottom-box .text.two,
+.features-section-two .features-column .inner-column .bottom-box .theme-btn,
+.features-section-two .info-column .inner-column .title-box .title,
+.contact-form-nine .title,
+.fun-fact-section-three .counter-block-three .inner-box .counter-title,
+.fun-fact-section-four .content-column .inner-column .info-box a,
+.fun-fact-section-four .counter-block-four .inner-box .counter-title,
+.list-style-six li,
+.contact-info-section .contact-info-block .inner-box .title,
+.contact-info-section .contact-info-block .inner-box .text h4,
+.list-style-six li:before,
+.contact-form-nine input::placeholder {
+  color: var(--theme-color-light) !important;
+}
+
+.contact-form-three .select2-container--default .select2-selection--single::-webkit-input-placeholder, .contact-form-three input:not([type=submit])::-webkit-input-placeholder, .contact-form-three textarea::-webkit-input-placeholder, .contact-form-three select::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contact-form-three .select2-container--default .select2-selection--single::-moz-placeholder, .contact-form-three input:not([type=submit])::-moz-placeholder, .contact-form-three textarea::-moz-placeholder, .contact-form-three select::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contact-form-three .select2-container--default .select2-selection--single:-ms-input-placeholder, .contact-form-three input:not([type=submit]):-ms-input-placeholder, .contact-form-three textarea:-ms-input-placeholder, .contact-form-three select:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contact-form-three .select2-container--default .select2-selection--single::-ms-input-placeholder, .contact-form-three input:not([type=submit])::-ms-input-placeholder, .contact-form-three textarea::-ms-input-placeholder, .contact-form-three select::-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.text-lights,
+p,
+.text,
+.list-style-two li,
+.news-block .content-box .post-info li,
+.news-block .bottom-box .read-more,
+.news-block .bottom-box .comments,
+.counter-block-two .counter-title,
+.contact-form-three .select2-container--default .select2-selection--single::placeholder,
+.contact-form-three input:not([type=submit])::placeholder,
+.contact-form-three textarea::placeholder,
+.contact-form-three select::placeholder,
+.about-section-six .content-column .inner-column .author-box .inner-box .author-info .designation,
+.project-block-six .inner-box .content-box .cat {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.team-block .share-icon,
+.about-section-five .content-column .inner-column .list-style-three,
+.skills .skill-item .skill-bar .bar-inner .bar,
+.features-section-two .info-column .inner-column .info-box .inner,
+.fun-fact-section-four .counter-block-four .inner-box .count-box,
+.contact-form-nine .select2-container--default .select2-selection--single,
+.contact-form-nine input:not([type=submit]),
+.contact-form-nine textarea,
+.contact-form-nine select {
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.bg-dark-text-light,
+.about-section .image-column .inner-column .video-box .play-btn .icon,
+.project-block .content-box .cat,
+.feature-block .inner-box .icon:after,
+.video-section .outer-box .video-box .play-now-two,
+.why-us-tabs .tab-btns .tab-btn,
+.services-section-five .tabs-column .nav-tabs li .nav-link .icon {
+  background-color: var(--theme-color-dark);
+  color: var(--theme-color-light);
+}
+
+/*	Border Color */
+.border-color {
+  border-color: #2c2a2a;
+}
+
+.bg-pattern-2,
+.about-section .icon-plane-1,
+.fun-fact-section .bg,
+.testimonial-block .inner-box .icon-quote-2,
+.about-section-two .shape-7,
+.team-section-two .shape-25,
+.feature-block-six .inner-box .bg-map-2,
+.testimonial-block-six .inner-box .icon-quote,
+.fun-fact-section-three .bg-map-4 {
+  opacity: 0.2;
+}
+
+.testimonial-section .bg.bg-image,
+.services-section-two .bg-image2,
+.video-section-two .bg.bg-image,
+.faq-section-two .bg.bg-image,
+.team-section .bg.bg-image,
+.team-section .bg-image:before,
+.why-choose-us-four .bg.bg-image,
+.fun-fact-section-two .shape-21,
+.about-section-five .shape-23,
+.project-section-five .bg-image,
+.pricing-section .bg-pattern-8,
+.banner-section-five .bg.bg-image,
+.main-slider-six .tp-dottedoverlay:after,
+.about-section-six .outer-box .icon-dots,
+.projects-section-six .icon-dots-2,
+.why-choose-us-three .bg.bg-image,
+.pricing-section .bg-pattern-3,
+.about-section-nine:after,
+.testimonial-section-five:before,
+.services-section-nine:before {
+  opacity: 0.02;
+}
+
+.bg-unset,
+.video-section-two,
+.faq-section-two,
+.testimonial-block-five .inner-box {
+  background-color: unset;
+}
+
+.counter-block .inner {
+  background-image: unset;
+}
+
+.client-block .image {
+  -webkit-filter: brightness(0) invert(1);
+          filter: brightness(0) invert(1);
+}
+
+.clients-section .slide-item a:hover {
+  background-color: inherit;
+}
+
+.contact-form .form-group textarea {
+  background-color: #0a090f;
+}
+.contact-form .form-group input:not([type=submit]) {
+  background-color: #0a090f;
+}
